@@ -1,24 +1,17 @@
 # 🧆 Mezbaan
 
-**Mezbaan** is a full-featured catering and event service management platform. It allows service providers to manage their listings, handle bookings, and support customer interactions with modern authentication and a sleek UI built with React and Material UI.
+**Mezbaan** is a full-featured event service management platform. It allows service providers to manage their listings, handle bookings, and support customer interactions with modern authentication and a sleek UI built with React and Bootstrap.
 
 ## 🚀 Features
 
 - 🔐 **Google Authentication** (Firebase OAuth2)
-- 🎨 **Modern UI** using MUI Joy, MUI Core, and styled-components
+- 🎨 **Modern UI** using Bootstrap, and styled-components
 - 🧭 **Routing** with React Router DOM
 - ☁️ **Backend Communication** with Axios
-- 🌐 **Social Login** via Google & Facebook
+- 🌐 **Social Login** via Google
 - 📱 **Responsive Design** with Bootstrap 5 & Bootstrap Icons
 - 🔁 **Persistent State** using `react-persist`
 - 📦 Built with **Vite** for lightning-fast development and production builds
-
----
-
-## 📸 Preview
-
-> Add a few screenshots or a GIF here to show the UI and interactions  
-> *(You can use tools like [LiceCap](https://www.cockos.com/licecap/) or record on your browser with Loom and export as GIF)*
 
 ---
 

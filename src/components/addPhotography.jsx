@@ -125,7 +125,7 @@ const AddPhotography = ({ setPage, existingData }) => {
       <div className="container d-flex justify-content-center align-items-center min-vh-100">
         <div
           className="card center-div shadow-lg mx-auto"
-          style={{ maxWidth: '800px', padding: '20px' }}
+          style={{maxWidth: "800px", overflowY: 'auto', maxHeight: '90vh'}}
         >
           <h2 className="card-title text-center mb-4 text-white fs-1 mt-4">
             Add Photography Service

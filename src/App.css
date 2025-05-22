@@ -25,6 +25,10 @@ body{
   border-radius: 10px;
 }
 
+.db-page{
+  height: 100vh;
+}
+
 .input-bg{
   transition: all 0.1s;
   border: 1px solid gray;

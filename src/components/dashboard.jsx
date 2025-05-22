@@ -64,7 +64,7 @@ const Dashboard = ({currentPage, setPage, setSuccessfulLogin})=>{
     };
     const max_arr=3;
     return (
-        <div className="">
+        <div className="db-page">
             <Header className="db-nav" currentPage={currentPage} setPage={setPage} setSuccessfulLogin={setSuccessfulLogin}></Header>
             <div className="db-second-container">
                 <div className="db-texts">
